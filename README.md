@@ -1,1 +1,1 @@
-# learn-git
+# Melika is learning Git with me 🐮🐣
